@@ -1,4 +1,4 @@
 KLGFramework
 ============
 
-Tiny PHP Framework
+Tiny PHP Framework for writing simple Web Applications
